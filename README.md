@@ -18,3 +18,8 @@ I have used JSON file system for it.
 * Generate Bills
 * Update Inventory
 * Purchase for customers
+
+## About me
+I am DHINESH KUMAR G B.E in branch of  Electronics And Communcation .Learning Artificial intelegence ,Machine learning ,Computer Vision to utilze in the field of Robotics
+# Profile
+https://www.linkedin.com/in/dhinesh-kumar-g-419b58208
